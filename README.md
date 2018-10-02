@@ -8,4 +8,5 @@ Will implement the ability to perform some simple task for the controller.
 
 ## Usage
 Intended for use with Unreal Engine 4.20
+
 Install by cloning project and installing git lfs
